@@ -1,0 +1,18 @@
+{
+	"RepetitionTime": 2.0,
+	"TaskName": "ak6",
+	"InstitutionName": "Dartmouth Brain Imaging Center, Dartmouth College",
+	"InstitutionAddress": "6207 Moore Hall, Hanover NH, 03755",
+	"TaskDescription": "(From Connolly et al. 2012): The stimuli were presented to subjects using a slow event-related design while they were engaged in a simple recognition memory task. An encoding event consisted of three different images of the same species each presented consecutively for 500 ms without gaps. Events were followed by a 4500 ms interstimulus interval. A trial consisted of six encoding events—one for each category—followed by a probe event that was either identical to an event from that trial or was new. Each trial included a blank encoding event—6 s of fixation— interspersed pseudo-randomly among the encoding events so that a set of encoding events never began or ended with a blank event. Event order was pseudo-randomized to approximate a first-order counterbalancing of species—each species followed every other the same number of times (Aguirre, 2007). The subject's task was to indicate whether the probe was old or new via button press. A scanning run comprised six trials, and there were 10 runs per session for a total of 60 encoding events per species.",
+	"Instructions": "Subjects were instructed to indicate whether the probe was old or new via button press.",
+	"PulseSequenceDetails": "(From Connolly et al. 2012): There were 43 transverse slices with full-brain coverage, and the slice thickness was 3 mm with no gap. Slices were acquired in an interleaved order. Each of the 10 functional runs included 164 dynamic scans and 4 dummy scans for a total time of 336 s per run. At the end of each scanning session a single, high-resolution T1-weighted (TE/TR = 4.53/9848 ms) anatomical scan was acquired with a 3D-turbo field echo sequence. The voxel resolution was 0.938 × 0.938 × 1.0 mm with a bounding box matrix of (256 × 256 × 160) (FOV = 240 × 240 × 160 mm).",
+	"ParallelReductionFactorInPlane": 2,
+	"ParallelAcquisitionTechnique": "Philips SENSE",
+	"EchoTime": 0.035,
+	"FlipAngle": 90,
+	"Manufacturer": "Philips Achieva Intera 3 T Scanner",
+	"PulseSequenceType": "Gradient-Echo Echoplanar T2*",	
+	"SliceTiming":[0.0, 0.325581, 0.604651, 0.883721, 1.162791, 1.44186, 1.72093, 0.046512, 0.372093, 0.651163, 0.930233, 1.209302, 1.488372, 1.767442, 0.093023, 0.418605, 0.697674, 0.976744, 1.255814, 1.534884, 1.813953, 0.139535, 0.465116, 0.744186, 1.023256, 1.302326, 1.581395,
+1.860465, 0.186047, 0.511628, 0.790698, 1.069767, 1.348837, 1.627907, 1.906977, 0.232558, 0.55814, 0.837209, 1.116279, 1.395349, 1.674419, 1.953488, 0.27907],
+	"CogAtlasID": "http://www.cognitiveatlas.org/task/id/tsk_4a57abb949d40"
+}
